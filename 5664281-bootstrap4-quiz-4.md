@@ -1,3 +1,5 @@
+**Attention!** Last two questions contains semi-correct explanation, BUT contains de-facto (for openclassrooms server) correct and de-jure incorrect answers.
+
 [Quiz](https://openclassrooms.com/en/courses/5664281-create-responsive-websites-efficiently-with-bootstrap-4/exercises/3622)
 # Check Your Understanding of Interactive Components
 
