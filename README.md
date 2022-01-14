@@ -1,0 +1,1 @@
+Answers for some [openclassrooms.com](openclassrooms.com) quizes.
